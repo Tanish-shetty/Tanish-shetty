@@ -6,14 +6,7 @@
 
 ---
 
-### 🐍 My Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanish-shetty/Tanish-shetty/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanish-shetty/Tanish-shetty/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tanish-shetty/Tanish-shetty/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
+
 
 ---
 
@@ -54,7 +47,16 @@
 </div>
 
 <br>
+### 🐍 My Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanish-shetty/Tanish-shetty/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanish-shetty/Tanish-shetty/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tanish-shetty/Tanish-shetty/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
+<br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" width="100%">
 </div>
