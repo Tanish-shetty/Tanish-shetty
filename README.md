@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Tanish%20Shetty&fontSize=70&theme=cobalt" width="100%](https://github.com/Tanish-shetty/Tanish-shetty/blob/main/.github/workflows/name%20banner)">
+  <img src="https://github.com/Tanish-shetty/Tanish-shetty/blob/main/.github/workflows/name%20banner">
 
   ### 3rd Year AI & Data Science Engineering Student
 </div>
