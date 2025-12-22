@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Tanish%20Shetty&fontSize=70&theme=cobalt" width="100%">
+  <img src="[https://github.com/Tanish-shetty/Tanish-shetty/blob/main/.github/workflows/name%20banner">
   <h3>3rd Year AI & Data Science Engineering Student</h3>
 </div>
 
@@ -65,3 +65,5 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35">
   </a>
 </div>
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Tanish%20Shetty&fontSize=70&theme=cobalt" width="100%">
