@@ -55,7 +55,10 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35">
   </a>
 </div>
+
+
 ---
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanish-shetty/Tanish-shetty/output/github-contribution-grid-snake-dark.svg">
