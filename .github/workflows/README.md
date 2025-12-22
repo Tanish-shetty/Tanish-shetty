@@ -1,5 +1,5 @@
 <div align="left">
-  <img width = 100% src="https://github.com/Tanish-shetty/Tanish-shetty/blob/main/name%20banner"  />
+  <img width = 100% src="[https://github.com/Tanish-shetty/Tanish-shetty/blob/main/name%20banner](https://github.com/Tanish-shetty/Tanish-shetty/blob/main/.github/workflows/name%20banner)"  />
 </div>
 
 ###
