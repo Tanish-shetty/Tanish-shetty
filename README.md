@@ -1,18 +1,7 @@
 <div align="center">
   <img src="https://github.com/Tanish-shetty/Tanish-shetty/blob/main/.github/workflows/name%20banner">
-  <h3>3rd Year AI & Data Science Engineering Student</h3>
 </div>
 
----
-
-### 🐍 My Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanish-shetty/Tanish-shetty/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanish-shetty/Tanish-shetty/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tanish-shetty/Tanish-shetty/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
 
 ---
 
@@ -65,3 +54,12 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35">
   </a>
 </div>
+---
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanish-shetty/Tanish-shetty/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanish-shetty/Tanish-shetty/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tanish-shetty/Tanish-shetty/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
