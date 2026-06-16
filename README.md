@@ -48,14 +48,20 @@
 
 ## 🔥 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish-shetty&theme=tokyonight" />
-</div>
+<table align="center">
+<tr>
+<td width="50%">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanish-shetty&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish-shetty&theme=tokyonight&hide_border=true" width="100%" />
 
+</td>
+<td width="50%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanish-shetty&theme=tokyo-night&hide_border=true" width="100%" />
+
+</td>
+</tr>
+</table>
 
 
 ### 📫 Connect with me
