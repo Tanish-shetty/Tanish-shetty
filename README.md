@@ -42,6 +42,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+   <img src="https://raw.githubusercontent.com/Tanish-shetty/Tanish-shetty/main/assets/language-pie-chart.png" width="500">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish-shetty&layout=compact&theme=tokyonight"/>
 </div>
 
