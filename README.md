@@ -46,10 +46,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish-shetty&layout=compact&theme=tokyonight"/>
 </div>
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish-shetty&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanish-shetty&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 
