@@ -39,31 +39,12 @@
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/Tanish-shetty/Tanish-shetty/main/assets/language-pie-chart.png" width="500">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish-shetty&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish-shetty&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Tanish-shetty&langs_count=8" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish-shetty&theme=tokyonight&hide_border=true" />
 </div>
-
-## 🔥 GitHub Activity
-
-<table align="center">
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish-shetty&theme=tokyonight&hide_border=true" width="100%" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanish-shetty&theme=tokyo-night&hide_border=true" width="100%" />
-
-</td>
-</tr>
-</table>
-
-
 ### 📫 Connect with me
 <div align="center">
   <a href="mailto:tanishshetty425@gmail.com">
