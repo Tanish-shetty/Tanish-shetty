@@ -45,7 +45,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish-shetty&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Tanish-shetty&langs_count=8" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish-shetty&theme=tokyonight&hide_border=true" />
 </div>
-## 📫 Connect with me
+
+## 📫 Connect with Me
 <div align="center">
   <a href="mailto:tanishshetty425@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35">
